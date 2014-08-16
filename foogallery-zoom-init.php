@@ -11,13 +11,13 @@ if ( !class_exists( 'ZOOM_Template_FooGallery_Extension_Init' ) ) {
 
 		function add_to_extensions_list( $extensions ) {
 			$extensions[] = array(
-				'slug'=> 'zoom',
+				'slug'=> 'foogallery-zoom-template',
 				'class'=> 'ZOOM_Template_FooGallery_Extension',
 				'title'=> __('ZOOM', 'foogallery-zoom'),
 				'file'=> 'foogallery-zoom-extension.php',
 				'description'=> __('A simple gallery with one awesome effect: ZOOM', 'foogallery-zoom'),
 				'author'=> ' Matt Cromwell',
-				'author_url'=> 'http://mattcromwell.com',
+				'author_url'=> 'http://mattcromwell.com/foogallery-templates',
 				'thumbnail'=> ZOOM_FG_URL . '/assets/extension_bg.png',
 				'tags'=> array( __('template', 'foogallery') ),	//use foogallery translations
 				'categories'=> array( __('Build Your Own', 'foogallery') ), //use foogallery translations
