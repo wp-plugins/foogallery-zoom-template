@@ -3,8 +3,8 @@ Contributors: webdevmattcrom, fooplugins
 Donate link: http://mattcromwell.com/foogallery-templates
 Tags: foogallery, image zoom, gallery, grayscale, blur, responsive
 Requires at least: 3.8
-Tested up to: 4.0
-Stable tag: 1.0
+Tested up to: 4.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -38,7 +38,7 @@ This is a normal plugin, and can be installed as normal.
 
 ###Searching in the backend
 1. Go to "Plugins > Add New" then click "Search"
-2. In the search field type "FooGallery Owl Carousel"
+2. In the search field type "FooGallery Zoom"
 3. Click install
 4. Click Activate
 
